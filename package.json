@@ -1,7 +1,6 @@
 {
-  "name": "sceon-task",
+  "name": "coin_stats_task",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
   "scripts": {
     "start:dev": "ts-node src/app.ts",

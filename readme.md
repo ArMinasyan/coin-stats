@@ -21,7 +21,6 @@ All response have this structure:
 
 ### Description 
 
-Get all user list by given query parameter, all parameters is optional.
 Currency must be start with fiat, and can be any currency, available 
 currencies are "AUD", "BGN", "BRL", "CAD", "CHF", "CNY", "CZK", "DKK", 
 "EUR", "GBP", "HKD", "HRK", "HUF", "IDR", "ILS", "INR", "ISK", "JPY", 
@@ -54,7 +53,7 @@ Currency can be also coinId, for example bitcoin, ethereum
 
 ### Description
 
-Get user data by give id, where user id is required.
+Get coin data by give coinId, where coinId id is required.
 
 ### Parameters
 
