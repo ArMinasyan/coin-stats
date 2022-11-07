@@ -24,7 +24,7 @@ Currency can be also coinId, for example bitcoin, ethereum
 | - | - | - | - | - | - |
 | currency | Currency | string | query | true
 
-<a style="font-size: 20px; color: black"> Responses </a>
+### Responses
 
 | Success | Status Code | Message | Data
 | - | - | - | - |
@@ -36,17 +36,18 @@ Currency can be also coinId, for example bitcoin, ethereum
 <a style="font-size: 20px"> 
 			<span style="color: blue">Get by id</span>  /coins/{coinId}
 </a>
-<a style="font-size: 20px; color: black"> Description </a>
+
+### Description
 
 Get user data by give id, where user id is required.
 
-<a style="font-size: 20px; color: black"> Parameters </a>
+### Parameters
 
 | Name | Description | Type | Location | Required
 | - | - | - | - |
 | coinId | Coin ID | string | param | true
 
-<a style="font-size: 20px; color: black"> Responses </a>
+### Responses 
 
 | Success | Status Code | Message | Data
 | - | - | - | - |
