@@ -44,7 +44,7 @@ Get user data by give id, where user id is required.
 ### Parameters
 
 | Name | Description | Type | Location | Required
-| - | - | - | - |
+| - | - | - | - | - |
 | coinId | Coin ID | string | param | true
 
 ### Responses 
