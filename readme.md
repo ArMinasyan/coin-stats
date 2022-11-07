@@ -1,5 +1,20 @@
 ## API Documentation
 
+All response have this structure:
+``` 
+{
+  statusCode: number;
+  success: boolean;
+  data: any;
+  message: string;
+  validationError: {
+      property: string;
+      message: string;
+  } | {};
+}
+```
+#
+
 <a style="font-size: 20px"> 
 			<span style="color: blue">GET</span>  /coins
 </a>
