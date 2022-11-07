@@ -21,8 +21,8 @@ Currency can be also coinId, for example bitcoin, ethereum
 
 
 | Name | Description | Type | Location | Required 
-| - | - | - | - | - | - |
-| currency | Currency | string | query | true
+| - | - | - | - | - |
+| currency | Currency | string | query | true 
 
 ### Responses
 
